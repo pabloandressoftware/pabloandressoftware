@@ -5,7 +5,7 @@ Ingeniero de Sistemas (Universidad Icesi, Cali) enfocado en desarrollo fullstack
 - 🔭 Actualmente construyendo **IMACY** (Image Management & Cycle System) en AISLAB-ICESI — una plataforma para centralizar imágenes médicas y sus anotaciones para entrenamiento de modelos de ML.
 - 🌱 Interesado en inteligencia artificial, pipelines de datos y sistemas distribuidos.
 - 🎓 Ingeniería de Sistemas en la Universidad Icesi (2022–2027) — Beca de Excelencia Oro, Beca de Honor, Lista de Honor.
-- 🍽️ Antes de programar, pasé 3 años liderando equipos en gastronomía — de ahí viene mi manera de trabajar bajo presión y resolver imprevistos rápido.
+- 🍽️ Antes de programar, pasé 3 años liderando equipos en gastronomía; de ahí viene mi manera de trabajar bajo presión y resolver imprevistos rápido.
 - 📫 Contacto: [guzmanpablo035@gmail.com](mailto:guzmanpablo035@gmail.com) · [LinkedIn](https://linkedin.com/in/pablo-guzman-software-ai-backend)
 
 ## Stack
