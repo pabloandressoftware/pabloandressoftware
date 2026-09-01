@@ -1,4 +1,4 @@
-# Hola, soy Pablo Andrés Guzmán Alarcón 👋
+# Hola, soy Pablo Andrés Guzmán Alarcón 
 
 Ingeniero de Sistemas (Universidad Icesi, Cali) enfocado en desarrollo fullstack, APIs y datos. Construyo productos de software de principio a fin: desde entender el problema hasta desplegarlo y validarlo con usuarios reales.
 
@@ -42,6 +42,3 @@ Ingeniero de Sistemas (Universidad Icesi, Cali) enfocado en desarrollo fullstack
 - Scrum Foundation Professional Certification (SFPC) — CertiProf (2024)
 - Introduction to MongoDB — MongoDB Inc. (2025)
 
-## Estadísticas
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=pabloandressoftware&show_icons=true&theme=default&hide_border=true&count_private=true)
