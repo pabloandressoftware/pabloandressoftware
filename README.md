@@ -1,5 +1,7 @@
 # Hola, soy Pablo Andrés Guzmán Alarcón 
 
+> 🆕 Esta es mi cuenta nueva de GitHub — migré aquí mi actividad y proyectos desde una cuenta anterior, así que la fecha de creación no refleja cuánto tiempo llevo programando.
+
 Ingeniero de Sistemas (Universidad Icesi, Cali) enfocado en desarrollo fullstack, APIs y datos. Construyo productos de software de principio a fin: desde entender el problema hasta desplegarlo y validarlo con usuarios reales.
 
 - 🔭 Actualmente construyendo **IMACY** (Image Management & Cycle System) en AISLAB-ICESI — una plataforma para centralizar imágenes médicas y sus anotaciones para entrenamiento de modelos de ML.
