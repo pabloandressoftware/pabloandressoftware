@@ -1,7 +1,5 @@
 # Hola, soy Pablo Andrés Guzmán Alarcón 
 
-> 🆕 Cree esta cuenta más formal y subí aquí algunos de mis proyectos previos que me parecen más interesantes.
-
 Ingeniero de Sistemas (Universidad Icesi, Cali) enfocado en desarrollo fullstack, APIs y datos. Construyo productos de software de principio a fin: desde entender el problema hasta desplegarlo y validarlo con usuarios reales.
 
 - 🔭 Actualmente construyendo **IMACY** (Image Management & Cycle System) en AISLAB-ICESI — una plataforma para centralizar imágenes médicas y sus anotaciones para entrenamiento de modelos de ML.
