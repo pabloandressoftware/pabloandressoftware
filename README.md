@@ -29,14 +29,14 @@ Ingeniero de Sistemas (Universidad Icesi, Cali) enfocado en desarrollo fullstack
 
 ## Proyectos destacados
 
-| Proyecto | Descripción | Stack |
-|---|---|---|
-| [Sistema_De_Votacion](https://github.com/pabloandressoftware/Sistema_De_Votacion) | Sistema de votación distribuido con middleware Ice (ZeroC): control de duplicados y confirmación de entrega end-to-end. | Java, Ice (ZeroC) |
-| [Transacciones-de-supermercado-PDD](https://github.com/pabloandressoftware/Transacciones-de-supermercado-PDD) | Pipeline ETL en PySpark + API REST: segmentación de clientes (K-Means/PCA) y motor de recomendación. | PySpark, FastAPI, Next.js |
-| [POV-REVIEW-FRONT](https://github.com/pabloandressoftware/POV-REVIEW-FRONT) | Plataforma para descubrir, reseñar y compartir opiniones sobre películas. | Next.js, TypeScript, Tailwind |
-| [Flowlance](https://github.com/pabloandressoftware/Flowlance) | Plataforma que conecta freelancers y clientes: perfiles, proyectos, mensajería y pagos. | Django, PostgreSQL |
-| [taller-nodejs-CompunetIII](https://github.com/pabloandressoftware/taller-nodejs-CompunetIII) | API RESTful de gestión de películas y reseñas con auth. | Node.js, Express, MongoDB |
-| [AVOPP-app](https://github.com/pabloandressoftware/AVOPP-app) | App de organización académica con priorización de tareas y sync con Moodle. | React, Vite, Tailwind |
+| Proyecto | Descripción | Stack | Demo |
+|---|---|---|---|
+| [Sistema_De_Votacion](https://github.com/pabloandressoftware/Sistema_De_Votacion) | Sistema de votación distribuido con middleware Ice (ZeroC): control de duplicados y confirmación de entrega end-to-end. | Java, Ice (ZeroC) | — |
+| [Transacciones-de-supermercado-PDD](https://github.com/pabloandressoftware/Transacciones-de-supermercado-PDD) | Pipeline ETL en PySpark + API REST: segmentación de clientes (K-Means/PCA) y motor de recomendación. | PySpark, FastAPI, Next.js | [Live](https://transacciones-supermercado-pabloguzman.vercel.app) |
+| [POV-REVIEW-FRONT](https://github.com/pabloandressoftware/POV-REVIEW-FRONT) | Plataforma para descubrir, reseñar y compartir opiniones sobre películas. | Next.js, TypeScript, Tailwind | [Live](https://pov-review-front-pabloguzman.vercel.app) |
+| [Flowlance](https://github.com/pabloandressoftware/Flowlance) | Plataforma que conecta freelancers y clientes: perfiles, proyectos, mensajería y pagos. | Django, PostgreSQL | — |
+| [taller-nodejs-CompunetIII](https://github.com/pabloandressoftware/taller-nodejs-CompunetIII) | API RESTful de gestión de películas y reseñas con auth. | Node.js, Express, MongoDB | [Live](https://taller-nodejs-pabloguzman.vercel.app) |
+| [AVOPP-app](https://github.com/pabloandressoftware/AVOPP-app) | App de organización académica con priorización de tareas y sync con Moodle. | React, Vite, Tailwind | [Live](https://avopp-app-pabloguzman.vercel.app) |
 
 ## Certificaciones
 
