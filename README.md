@@ -6,6 +6,7 @@ Ingeniero de Sistemas (Universidad Icesi, Cali) enfocado en desarrollo fullstack
 - 🌱 Interesado en inteligencia artificial, pipelines de datos y sistemas distribuidos.
 - 🎓 Ingeniería de Sistemas en la Universidad Icesi (2022–2027) — Beca de Excelencia Oro, Beca de Honor, Lista de Honor.
 - 🍽️ Antes de programar, pasé 3 años liderando equipos en gastronomía; de ahí viene mi manera de trabajar bajo presión y resolver imprevistos rápido.
+- 💼 Portafolio: [portfolio-pablo-guzman.vercel.app](https://portfolio-pablo-guzman.vercel.app)
 - 📫 Contacto: [guzmanpablo035@gmail.com](mailto:guzmanpablo035@gmail.com) · [LinkedIn](https://linkedin.com/in/pablo-guzman-software-ai-backend)
 
 ## Stack
@@ -33,12 +34,12 @@ Ingeniero de Sistemas (Universidad Icesi, Cali) enfocado en desarrollo fullstack
 | [Transacciones-de-supermercado-PDD](https://github.com/pabloandressoftware/Transacciones-de-supermercado-PDD) | Pipeline ETL en PySpark + API REST: segmentación de clientes (K-Means/PCA) y motor de recomendación. | PySpark, FastAPI, Next.js | [Live](https://transacciones-supermercado-pabloguzman.vercel.app) |
 | [POV-REVIEW-FRONT](https://github.com/pabloandressoftware/POV-REVIEW-FRONT) | Plataforma para descubrir, reseñar y compartir opiniones sobre películas. | Next.js, TypeScript, Tailwind | [Live](https://pov-review-front-pabloguzman.vercel.app) |
 | [Flowlance](https://github.com/pabloandressoftware/Flowlance) | Plataforma que conecta freelancers y clientes: perfiles, proyectos, mensajería y pagos. | Django, PostgreSQL | — |
-| [taller-nodejs-CompunetIII](https://github.com/pabloandressoftware/taller-nodejs-CompunetIII) | API RESTful de gestión de películas y reseñas con auth. | Node.js, Express, MongoDB | [Live](https://taller-nodejs-pabloguzman.vercel.app) |
+| [autosolve](https://github.com/pabloandressoftware/autosolve) | Diagnóstico, agendamiento y seguimiento de servicios automotrices con chatbot por reglas (elegido en vez de un LLM para respuestas inmediatas y auditables). | NestJS, Prisma, React (PWA) | [Live](https://autosolve-six.vercel.app) |
 | [AVOPP-app](https://github.com/pabloandressoftware/AVOPP-app) | App de organización académica con priorización de tareas y sync con Moodle. | React, Vite, Tailwind | [Live](https://avopp-app-pabloguzman.vercel.app) |
 
 ## Certificaciones
 
-- Google Cloud Data Analytics Certificate — Google (2025)
-- Scrum Foundation Professional Certification (SFPC) — CertiProf (2024)
-- Introduction to MongoDB — MongoDB Inc. (2025)
+- Google Cloud Data Analytics Certificate - Google (2025)
+- Scrum Foundation Professional Certification (SFPC) - CertiProf (2024)
+- Introduction to MongoDB - MongoDB Inc. (2025)
 
