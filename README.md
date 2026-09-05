@@ -42,4 +42,4 @@ Ingeniero de Sistemas (Universidad Icesi, Cali) enfocado en desarrollo fullstack
 - Google Cloud Data Analytics Certificate - Google (2025)
 - Scrum Foundation Professional Certification (SFPC) - CertiProf (2024)
 - Introduction to MongoDB - MongoDB Inc. (2025)
-
+- Claude Code 101 - Claude Academy (2026)
